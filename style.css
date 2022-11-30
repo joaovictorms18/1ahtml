@@ -1,3 +1,7 @@
+	header{
+		background: blue;
+	}
+
 	p{
 		text-align: center;
 	}
@@ -5,3 +9,7 @@
 	h1{
 		text-align: center; color: purple;
 	}
+	strong{
+		color: red
+	}
+	
